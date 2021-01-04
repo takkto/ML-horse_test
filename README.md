@@ -19,6 +19,7 @@ The attributes correspond to the following measurements made from each patient a
 14. Fibrinogen
 15. Dimer
 16. FibPerDim
+
 In the decision tree, use only binary tests, i.e. each node should test whether a particular attribute has a value greater or smaller than a threshold.
 In deciding which attribute to test at any point, use the information gain metric. 
 Set the node test threshold for each potential attribute using this same metric i.e. at each point, see all the values that exist for a particular attribute in
