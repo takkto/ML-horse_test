@@ -1,4 +1,4 @@
-# ML-horse_test
+# Machine Learning - horse_test
 
 Using python, write a decision tree algorithm that will learn to diagnose whether a patient is healthy or has colic. 
 Use the horseTrain file to train the decision tree. Each training instance has 16 numeric attributes (features) and a classification, all separated by commas.
